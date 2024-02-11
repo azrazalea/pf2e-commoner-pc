@@ -2,19 +2,18 @@
   "title": "PF2e Commoner PC",
   "description": "Contains classes that implement the Pathfinder 2nd edition level 0 PC and Apprentice PC variant rules (Remaster)",
   "url": "https://github.com/azrazalea/pf2e-commoner-pc",
-  "readme": "https://github.com/azrazalea/pf2e-commoner-pc/blob/master/README.md",
+  "readme": "https://github.com/azrazalea/pf2e-commoner-pc/blob/main/README.md",
   "manifest": "https://raw.githubusercontent.com/azrazalea/pf2e-commoner-pc/main/module.json",
-  "changelog": "https://github.com/azrazalea/pf2e-commoner-pc/blob/master/CHANGELOG.md",
-  "download": "https://github.com/azrazalea/pf2e-commoner-pc/archive/refs/heads/main.zip",
+  "changelog": "https://github.com/azrazalea/pf2e-commoner-pc/blob/main/CHANGELOG.md",
+  "download": "https://github.com/azrazalea/pf2e-commoner-pc/releases/download/v1.0.1/module.zip",
   "bugs": "https://github.com/azrazalea/pf2e-commoner-pc/issues",
   "packs": [
     {
       "name": "commoner-pc",
       "label": "PF2E Commoner PC",
-      "path": "packs/commoner-pc.db",
+      "path": "packs/commoner-pc",
       "type": "Item",
       "system": "pf2e",
-      "module": "pf2e-commoner-pc",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -34,6 +33,5 @@
     "minimum": "11",
     "verified": "11"
   },
-  "version": "1.0.1",
-  "manifestPlusVersion": "1.2.0"
+  "version": "1.0.1"
 }
