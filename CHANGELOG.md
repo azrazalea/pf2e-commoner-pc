@@ -1,3 +1,7 @@
+# 1.1.1
+
+- Fixed bug with Kineticist (Homebrew) where proficiency modifier wasn't being added to kinetic blast attack rolls. This was due to the class being renamed to add Homebrew to it and its slug.
+
 # 1.1.0
 
 - Added RAW versions of each class. Changed folder structure and class names to make it clear which are which. See README.md for details.
