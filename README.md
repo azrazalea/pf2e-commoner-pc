@@ -30,11 +30,5 @@ This folder contains Apprentice classes for every class, with my interpretation.
 Examples: Investigator gets On the Case feat, Wizard gets Prestidigitation as an extra cantrip, and Witch gets a basic familiar.
 
 ### Notes on Homebrew
-I've struggled a bit homebrewing martial apprentices that feel unique. I have some ideas I'm workshopping for a future version but feel free to open an issue or send me a message on Discord if you have any ideas.
 
 #### PLEASE read the class and class feature descriptions for the Apprentice (Homebrew) classes. They explain how to do the manual steps involved with setting up the character like choosing skills and spells. A lot of the spellcasters are only different due to their instructions for spell setup, which is completely manual.
-
-- Barbarian, Champion, Ranger, and Swashbuckler are all identical to Fighter (besides skill choice). I'd like this to change.
-- I made Thaumaturge weaker than RAW. 6 skills + intelligence modifier just seems overpowered to me. It might be worth giving them a small class feature as well though, let me know what you think!
-- Inventor is differentiated from other martials by having the Peerless Inventor feat, but I feel this probably isn't enough. Open to ideas here as well!
-- Kineticist is implemented with a single gate, basic elemental blast, and base kinesis. I feel this is balanced, but let me know if you disagree!

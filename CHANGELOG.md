@@ -1,7 +1,7 @@
 # 1.2.0
 
 - Fixed bug with Investigator (Homebrew and RAW) where they did not have simple weapons proficiency.
-- Rehauled martial classes Barbarian, Champion, Fighter, Gunslinger, Inventor, Investigator, Ranger, Rogue, Swashbuckler, and Thaumaturge Homebrew classes with hopefully balanced abilites. All Homebrew needs proper playstesting to see how it works in practice.
+- Rehauled martial classes Barbarian, Champion, Fighter, Gunslinger, Inventor, Investigator, Ranger, Rogue, Swashbuckler, and Thaumaturge Homebrew classes with hopefully balanced abilities. All Homebrew needs proper playstesting to see how it works in practice.
 
 # 1.1.1
 
