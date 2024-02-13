@@ -1,3 +1,8 @@
+# 1.2.0
+
+- Fixed bug with Investigator (Homebrew and RAW) where they did not have simple weapons proficiency.
+- Rehauled martial classes Barbarian, Champion, Fighter, Gunslinger, Inventor, Investigator, Ranger, Rogue, Swashbuckler, and Thaumaturge Homebrew classes with hopefully balanced abilites. All Homebrew needs proper playstesting to see how it works in practice.
+
 # 1.1.1
 
 - Fixed bug with Kineticist (Homebrew) where proficiency modifier wasn't being added to kinetic blast attack rolls. This was due to the class being renamed to add Homebrew to it and its slug.

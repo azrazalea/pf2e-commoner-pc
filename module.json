@@ -5,7 +5,7 @@
   "readme": "https://github.com/azrazalea/pf2e-commoner-pc/blob/main/README.md",
   "manifest": "https://raw.githubusercontent.com/azrazalea/pf2e-commoner-pc/main/module.json",
   "changelog": "https://github.com/azrazalea/pf2e-commoner-pc/blob/main/CHANGELOG.md",
-  "download": "https://github.com/azrazalea/pf2e-commoner-pc/releases/download/v1.1.1/module.zip",
+  "download": "https://github.com/azrazalea/pf2e-commoner-pc/releases/download/v1.2.0/module.zip",
   "bugs": "https://github.com/azrazalea/pf2e-commoner-pc/issues",
   "packs": [
     {
@@ -33,5 +33,5 @@
     "minimum": "11",
     "verified": "11"
   },
-  "version": "1.1.1"
+  "version": "1.2.0"
 }
